@@ -1,7 +1,7 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes.????/asiud
 Git tracks changes of files.
 shit????????????????????
 hola~
@@ -12,3 +12,5 @@ master
 a change in dev
 
 Switched to a new branch 'dev'
+
+fix bug!
