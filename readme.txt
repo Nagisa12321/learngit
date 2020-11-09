@@ -13,5 +13,4 @@ a change in dev
 
 Switched to a new branch 'dev'
 
-fix bug!
 fix bug!fix bug!fix bug!fix bug!fix bug!fix bug!fix bug!fix bug!fix bug!fix bug!fix bug!fix bug!fix bug!fix bug!fix bug!
