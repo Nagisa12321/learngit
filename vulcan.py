@@ -9,4 +9,8 @@ def function():
 
 
 
+<<<<<<< HEAD
 Creating a new branch is quick and not simple.
+=======
+				shit?
+>>>>>>> dev
